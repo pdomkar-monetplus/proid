@@ -1,4 +1,4 @@
-openapi: 3.1.0
+penapi: 3.1.0
 info:
   title: virtual-card
   version: '1.0'
