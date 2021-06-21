@@ -1,7 +1,7 @@
 openapi: 3.1.0
 info:
   title: Mobile
-  description: Portal Backend REST API - Mobile
+  description: Portal Backend REST API - mobile
   contact:
     name: 'Monet+, a.s.'
     url: 'http://www.monetplus.cz'
