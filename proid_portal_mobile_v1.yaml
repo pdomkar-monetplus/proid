@@ -250,3 +250,5 @@ components:
           type: string
         platform:
           $ref: '#/components/schemas/instanceOS'
+tags:
+  - name: mobile
