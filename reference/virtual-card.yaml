@@ -185,3 +185,5 @@ components:
         - lastName
         - email
         - emailVerified
+tags:
+  - name: vk
